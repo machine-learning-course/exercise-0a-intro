@@ -1,4 +1,4 @@
-# Exercise 1: Introduction to Machine Learning
+# Exercise 0A: Introduction to Machine Learning
 
 This README.md file contains an overview of this exercise.
 The purpose of this exercise is to introduce you to GitHub and fundamental machine learning concepts.
